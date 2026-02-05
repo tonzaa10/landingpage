@@ -1,0 +1,191 @@
+@media screen and (min-device-width: 768px) and (max-device-width: 820px) {
+      .reverse {
+        flex-direction: column-reverse;
+    }
+
+    #links-slide .item a img {
+        height: 255px;
+    }
+
+    /*--------------------------------------History--------------------------------------*/
+    .main-history {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .box-history-content br {
+        display: none;
+    }
+
+    /*--------------------------------------Links Slide--------------------------------------*/
+    #links-slide .item a:hover .links-box .links-title {
+        bottom: 60%;
+    }
+
+    /*--------------------------------------4 Decades of Giving--------------------------------------*/
+    .main-decades {
+        height: 250px;
+    }
+
+    /*--------------------------------------ฺBangkok Post Foundation--------------------------------------*/
+    .main-foundation {
+        padding-top: 40px;
+        padding-bottom: 40px;
+
+    }
+
+    .box-foundation-content {
+        margin-left: 0;
+    }
+
+    .box-foundation-image {
+        margin-top: 20px;
+    }
+
+    /*--------------------------------------ฺInspiring Stories--------------------------------------*/
+    .main-inspiring {
+        padding-bottom: 40px;
+
+    }
+
+    .main-inspiring .container {
+        padding: 35px 0 0 0;
+    }
+
+
+    /*--------------------------------------PHUD HONG FOUNDATION--------------------------------------*/
+    .main-phud-hong {
+        padding-bottom: 40px;
+
+    }
+
+    .main-phud-hong .container {
+        padding-top: 35px;
+    }
+
+    .box-phud-hong-content {
+        margin-right: 0;
+    }
+
+    #fade-slide {
+        margin-top: 20px;
+    }
+
+    /*--------------------------------------BANGKOK POST FORUM 2022--------------------------------------*/
+    .main-forum {
+        padding-top: 40px;
+
+    }
+
+    .box-forum {
+        margin-bottom: 40px;
+    }
+
+    /*--------------------------------------Live Birthday Messages--------------------------------------*/
+    .main-live-messages {
+
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+
+    /*--------------------------------------Spin and get a chance to win--------------------------------------*/
+    .box-book {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .box-book .box-book-detail .box-list {
+        margin-left: 0;
+    }
+
+    .box-spin {
+        height: 100%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background: var(--dark-color);
+    }
+
+    .box-description-spin {
+        margin-bottom: 20px;
+    }
+
+    /*--------------------------------------GIVE BACK PROMOTIONS--------------------------------------*/
+    .main-promotions {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        overflow: hidden;
+    }
+
+    /*--------------------------------------Footer--------------------------------------*/
+    footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        height: 100%;
+    }
+
+    .box-footer {
+        flex-direction: column-reverse;
+    }
+
+    .box-footer .box-copyright {
+        margin-top: 20px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .box-footer .contact-links-footer li {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+
+}
+
+
+@media screen and (min-width: 821px) and (max-width: 1024px) {
+  
+
+    /*--------------------------------------Links Slide--------------------------------------*/
+    #links-slide .item a:hover .links-box .links-title {
+        bottom: 60%;
+    }
+
+    #links-slide .item a img {
+        height: 315px;
+    }
+
+
+    /*--------------------------------------ฺInspiring Stories--------------------------------------*/
+    .box-student-testimonial .item {
+        flex: 1 1 calc(50% - 20px);
+    }
+
+
+    /*--------------------------------------Footer--------------------------------------*/
+    footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        height: 100%;
+    }
+
+    .box-footer {
+        flex-direction: column-reverse;
+    }
+
+    .box-footer .box-copyright {
+        margin-top: 20px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .box-footer .contact-links-footer li {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+
+
+}
