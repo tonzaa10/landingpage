@@ -11,9 +11,9 @@ Demo: https://tonfordev.com/landingpage/
 
 - **HTML5** – โครงสร้างหน้าเว็บแบบ Semantic
 - **CSS3** – การจัด layout และตกแต่งหน้าเว็บ
-- **JavaScript** – เพิ่มความสามารถแบบ Interactive
-- **Bootstrap** – ระบบ Grid และ Component สำหรับ Responsive
-- **Slick Slider** – ระบบสไลด์/คารูเซล
+- **JavaScript** – เพิ่ม Interactive
+- **Bootstrap** – Grid และ Component สำหรับ Responsive
+- **Slick Slider** – ระบบสไลด์
 
 ---
 
