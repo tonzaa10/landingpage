@@ -3,7 +3,7 @@
 โปรเจกต์นี้เป็นหน้า Landing Page ที่พัฒนาด้วย HTML, CSS, JavaScript, Bootstrap และ Slick Slider  
 ออกแบบให้รองรับการแสดงผลทุกอุปกรณ์ (Responsive) และเน้นความเร็วในการโหลดหน้าเว็บ
 
-Demo: https://tonfordev.com/landingpage/
+Demo: https://landingpage-two-lyart.vercel.app/
 
 ---
 
